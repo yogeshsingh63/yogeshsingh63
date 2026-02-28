@@ -17,7 +17,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yogesh-rajput-9aba7a25b/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -27,82 +27,51 @@
 
 ### 💻 Frontend
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" title="Redux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" title="Figma"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-### ⚙️ Backend & API
+### ⚙️ Backend & Database
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" title="Express.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
-</p>
-
-### 🗄️ Database & Cloud
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-  <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="40" title="Appwrite"/>
-</p>
-
-### 🔧 Dev Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" title="Postman"/>
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" title="Vercel"/>
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" title="Netlify"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
 
-## 💻 C / C++ & Problem Solving
+## 🌐 Web3 & Blockchain
+
+### 🏗️ Ethereum Ecosystem
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" title="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MetaMask-e2761b?style=for-the-badge&logo=metamask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
 </p>
 
----
-
-## 🌐 Web3 (Ethereum Ecosystem)
+### 🔷 Solana Ecosystem
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="40" title="Solidity"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" width="40" title="Hardhat"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethers/ethers-original.svg" width="40" title="Ethers.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/web3js/web3js-original.svg" width="40" title="Web3.js"/>
-  <img src="https://www.vectorlogo.zone/logos/metamask/metamask-icon.svg" width="40" title="MetaMask"/>
-  <img src="https://www.vectorlogo.zone/logos/chainlink/chainlink-icon.svg" width="40" title="Chainlink"/>
-</p>
-
----
-
-## 🔷 Web3 (Solana Ecosystem)
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solana/solana-original.svg" width="40" title="Solana"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" title="Rust"/>
-  <img src="https://www.vectorlogo.zone/logos/phantom_app/phantom_app-icon.svg" width="40" title="Phantom Wallet"/>
+  <img src="https://img.shields.io/badge/Solana-%239945FF.svg?style=for-the-badge&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/rust-%23E0115F.svg?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshsingh63&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogeshsingh63&show_icons=true&theme=tokyonight" alt="Yogesh's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshsingh63&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yogeshsingh63&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshsingh63" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshsingh63&theme=tokyonight" alt="GitHub Streak" />
 </p>
