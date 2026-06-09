@@ -5,7 +5,7 @@
   
   <h1>Hi there, I'm Yogesh Singh Rajawat 👋</h1>
   
-  <p><strong>Full-Stack Engineer | Systems & Backend Developer</strong></p>
+  <p><strong>Full-Stack Engineer | Backend Developer</strong></p>
   
   <p>
     <a href="https://www.linkedin.com/in/yogesh-singh-rajawat-9aba7a25b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -17,10 +17,10 @@
 ---
 
 ### 💻 About Me
-I am a **Full-Stack Developer with a heavy focus on Backend Systems and Decentralized Technologies**. I specialize in building highly concurrent network architectures, distributed task systems, real-time engines, and smart contracts. I enjoy solving complex logic puzzles, optimizing backend performance, and working with containers.
+I am a **Full-Stack Developer with a heavy focus on Backend and Decentralized Technologies**. I specialize in building highly concurrent network architectures, distributed task solutions, real-time engines, and smart contracts. I enjoy solving complex logic puzzles, optimizing backend performance, and working with containers.
 
 * ⚙️ **Focused on**: Distributed task scheduling, Docker containerization APIs, WebSockets, and secure Web3 infrastructure.
-* 🌱 **Currently learning**: **Java** and **Go (Golang)** to further expand my capabilities in enterprise backend design and concurrent system programming.
+* 🌱 **Currently learning**: **Java** and **Go (Golang)** to further expand my capabilities in enterprise backend design and concurrent programming.
 
 ---
 
@@ -106,8 +106,5 @@ An online collaborative code workspace and IDE that allows developers and teache
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yogeshsingh63&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  <br/>
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshsingh63&theme=transparent" alt="GitHub Streak" />
 </p>
