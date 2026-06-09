@@ -33,7 +33,6 @@ I am a **Full-Stack Developer with a heavy focus on Backend Systems and Decentra
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
-      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
@@ -92,54 +91,23 @@ I am a **Full-Stack Developer with a heavy focus on Backend Systems and Decentra
 
 ### 🚀 Featured Projects
 
-#### ⚡ [SwiftQueue](https://github.com/yogeshsingh63/swiftqueue)
-A custom-built, Redis-backed background job processing system designed for reliability, rate-limiting, and ease of HTTP integration.
-* **Core Tech**: TypeScript, Node.js, Express, ioredis, WebSockets, React (Vite).
-* **Key Features**: Supports high/medium/low priority queues, delayed jobs with exponential backoff retries, stuck job crash recovery, dead-letter queue (DLQ) replaying, write rate-limiting, and an interactive monitoring dashboard updating via WebSockets.
+#### 🔍 [Hirescope](https://github.com/Shryansh107/linkedin-job-scrapper)
+A dynamic LinkedIn job scraper backend that automatically retrieves, filters, and scores job postings based on custom configurations.
+* **Core Tech**: Python, SQLite, Supabase (PostgreSQL), HTML/CSS.
+* **Key Features**: Supports local SQLite and cloud Supabase database backends, session pool management using multiple logins, active config management, and real-time dashboard visualization.
 
 #### 💻 [CodeSphere](https://github.com/yogeshsingh63/codesphere)
 An online collaborative code workspace and IDE that allows developers and teachers to spin up coding environments on demand.
 * **Core Tech**: React, Node.js, Express, MongoDB, WebSockets, Docker (via `dockerode`).
 * **Key Features**: Direct API integration with local/cloud Docker to compile and run submissions inside isolated environments, live multiplayer code collaboration via custom WebSocket servers, test case evaluation, and quizzes.
 
-#### 🃏 [UNO Multiplayer](https://github.com/yogeshsingh63/uno)
-A real-time multiplayer implementation of the classic UNO card game featuring custom neon-carnival arcade design elements.
-* **Core Tech**: React Native (Expo SDK 54), Socket.io, Zustand, TypeScript, React Native Reanimated.
-* **Key Features**: Server-side validation of all game state and action rules (Wild +4 challenges, Draw-2 stacking, and scoring), custom AI bots to fill unoccupied player seats, haptic feedbacks, and smooth graphics.
-
-#### 🦀 [Clawd](https://github.com/yogeshsingh63/clawd)
-An asynchronous Algorithmic Correlation Trading Bot executing pairs trading on Polymarket's 5-minute binary contracts.
-* **Core Tech**: Rust, Tokio (Async Runtime), WebSockets (event-driven price feeds), Serde.
-* **Key Features**: Parallel dual-leg GTC maker order placement using `tokio::join!`, order book depth screening before market entry, session logging to CSV, and continuous monitoring/canceling of orphaned legs.
-
-#### 🔮 [Connect 4 Oracle](https://github.com/yogeshsingh63/connect4)
-A browser-extension helper that analyzes and predicts winning moves in live Connect 4 games.
-* **Core Tech**: Python, Flask, C, Javascript (Chrome Extension APIs).
-* **Key Features**: Scraping/parsing game board layouts directly from game views, communicating with a Flask API that coordinates an exact solver written in C, and showing optimal move overlays.
-
-#### 💱 [DEXLite](https://github.com/yogeshsingh63/dex)
-A decentralized exchange implementation utilizing Uniswap-style Constant Product Market Maker algorithms ($x \cdot y = k$).
-* **Core Tech**: Solidity, Hardhat, Ethers.js, React, TailwindCSS.
-* **Key Features**: ERC20 token swaps with 0.3% trading fee allocation, 50:50 ratio LP token minting and burning, and MetaMask/WalletConnect integration.
-
-#### 🌐 [Disaster Management Platform](https://github.com/yogeshsingh63/disaster-project)
-A role-based web app connecting volunteers, NGOs, and affected citizens to coordinate disaster relief.
-* **Core Tech**: Node.js, Express, MongoDB, Socket.io, React, Material-UI, Leaflet.
-* **Key Features**: Interactive incident maps, real-time regional alert broadcasting, inventory/resource logistics tracking, and volunteer location updates.
-
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yogeshsingh63&show_icons=true&theme=transparent&title_color=6366F1&icon_color=6366F1&text_color=ffffff" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshsingh63&theme=transparent&currStreakNum=6366F1&fire=6366F1&ring=6366F1&sideNums=ffffff&sideLabels=ffffff&currStreakLabel=6366F1" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yogeshsingh63&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshsingh63&theme=transparent" alt="GitHub Streak" />
+</p>
