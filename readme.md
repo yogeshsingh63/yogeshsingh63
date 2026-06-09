@@ -17,7 +17,7 @@
 ---
 
 ### 💻 About Me
-I am a **Full-Stack Developer with a heavy focus on Backend and Decentralized Technologies**. I specialize in building highly concurrent network architectures, distributed task solutions, real-time engines, and smart contracts. I enjoy solving complex logic puzzles, optimizing backend performance, and working with containers.
+I am a **Full-Stack Developer focused on Backend and Decentralized Technologies**. I just like building and making web systems work.
 
 * ⚙️ **Focused on**: Distributed task scheduling, Docker containerization APIs, WebSockets, and secure Web3 infrastructure.
 * 🌱 **Currently learning**: **Java** and **Go (Golang)** to further expand my capabilities in enterprise backend design and concurrent programming.
