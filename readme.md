@@ -17,10 +17,9 @@
 ---
 
 ### 💻 About Me
-I am a **Full-Stack Developer focused on Backend and Decentralized Technologies**. I just like building and making web systems work.
+I am a **Software Developer interested in full-stack and backend systems**. I just like building and making web systems work.
 
-* ⚙️ **Focused on**: Distributed task scheduling, Docker containerization APIs, WebSockets, and secure Web3 infrastructure.
-* 🌱 **Currently learning**: **Java** and **Go (Golang)** to further expand my capabilities in enterprise backend design and concurrent programming.
+* 🌱 **Currently learning**: **Go**, **Java**, **Spring Boot**, and **Distributed Systems**.
 
 ---
 
@@ -90,6 +89,10 @@ I am a **Full-Stack Developer focused on Backend and Decentralized Technologies*
 ---
 
 ### 🚀 Featured Projects
+
+#### 🌐 [Portfolio](https://yogeshrajawat.vercel.app)
+My personal developer portfolio website showcasing my background, skills, and projects.
+* **Core Tech**: Next.js, React, TypeScript, Tailwind CSS.
 
 #### 🔍 [Hirescope](https://github.com/Shryansh107/linkedin-job-scrapper)
 A dynamic LinkedIn job scraper backend that automatically retrieves, filters, and scores job postings based on custom configurations.
