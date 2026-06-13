@@ -17,7 +17,7 @@
 ---
 
 ### 💻 About Me
-I am a **Software Developer interested in full-stack and backend systems**. I just like building and making web systems work.
+**Software Developer interested in full-stack and backend systems**.
 
 * 🌱 **Currently learning**: **Go**, **Java**, **Spring Boot**, and **Distributed Systems**.
 
