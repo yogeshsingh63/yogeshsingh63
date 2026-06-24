@@ -104,7 +104,7 @@ An AI tool that converts long-form media (YouTube videos, audio/video files, or 
 #### 💻 [CodeSphere](https://codesphere1.vercel.app)
 An online collaborative code editor and IDE for running and evaluating code in isolated environments.
 * **GitHub**: [yogeshsingh63/codesphere](https://github.com/yogeshsingh63/codesphere)
-* **Core Tech**: React, Node.js, Express, MongoDB, WebSockets, Docker.
+* **Core Tech**: React, Node.js, Express, MongoDB, WebSockets, Docker (via `dockerode`).
 * **Key Features**: Compiles and runs submissions inside isolated Docker containers, supports live multiplayer code collaboration via WebSockets, and evaluates submissions against test cases.
 
 ---
