@@ -96,16 +96,16 @@ My personal developer portfolio website showcasing my background, skills, and pr
 * **Core Tech**: Next.js, React, TypeScript, Tailwind CSS.
 
 #### 🔮 [Prism AI](https://prism-ai1.vercel.app)
-A premium content refraction engine that automates multi-platform content distribution by converting long-form media (YouTube videos, audio/video files, or raw transcripts) into a beautiful spectrum of platform-native text copy and visual assets.
+An AI tool that converts long-form media (YouTube videos, audio/video files, or transcripts) into platform-optimized text copy and graphics.
 * **GitHub**: [yogeshsingh63/ai-atomizer](https://github.com/yogeshsingh63/ai-atomizer)
-* **Core Tech**: Next.js 16 (App Router, TypeScript, React 19, Tailwind CSS, Framer Motion), FastAPI (Python), PostgreSQL (Supabase) / SQLite, NVIDIA NIM, Gemini, HuggingFace (FLUX).
-* **Key Features**: Auto-generates SEO blog posts, Twitter/X threads, LinkedIn posts, viral short clip recommendations, and cover/thumbnail images using a high-reliability fallback matrix. Supports status-aware dashboard routing, SSE-based live processing tracking with polling fallback, and per-card interactive AI regeneration.
+* **Core Tech**: Next.js, FastAPI (Python), PostgreSQL (Supabase), SQLite, LLMs (Gemini, Llama 3.3).
+* **Key Features**: Transcribes audio inputs, generates blogs, Twitter threads, and LinkedIn posts, creates thumbnail images, and lets users edit specific assets with custom AI prompts.
 
 #### 💻 [CodeSphere](https://codesphere1.vercel.app)
-An online collaborative code workspace and IDE that allows developers and teachers to spin up coding environments on demand.
+An online collaborative code editor and IDE for running and evaluating code in isolated environments.
 * **GitHub**: [yogeshsingh63/codesphere](https://github.com/yogeshsingh63/codesphere)
-* **Core Tech**: React, Node.js, Express, MongoDB, WebSockets, Docker (via `dockerode`).
-* **Key Features**: Direct API integration with local/cloud Docker to compile and run submissions inside isolated environments, live multiplayer code collaboration via custom WebSocket servers, test case evaluation, and quizzes.
+* **Core Tech**: React, Node.js, Express, MongoDB, WebSockets, Docker.
+* **Key Features**: Compiles and runs submissions inside isolated Docker containers, supports live multiplayer code collaboration via WebSockets, and evaluates submissions against test cases.
 
 ---
 
