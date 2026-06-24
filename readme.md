@@ -112,7 +112,6 @@ An online collaborative code workspace and IDE that allows developers and teache
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogeshsingh63&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Yogesh's GitHub stats" />
   <img src="https://streak-stats.demolab.com/?user=yogeshsingh63&theme=transparent" alt="GitHub Streak" />
 </p>
 
