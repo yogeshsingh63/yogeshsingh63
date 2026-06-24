@@ -3,7 +3,7 @@
   
   <br/>
   
-  <h1>Hi there, I'm Yogesh Singh Rajawat 👋</h1>
+  <h1>Hi there, I'm Yogesh Singh Rajawat</h1>
   
   <p><strong>Full-Stack Engineer | Backend Developer</strong></p>
   
@@ -16,14 +16,14 @@
 
 ---
 
-### 💻 About Me
+### About Me
 **Software Developer interested in full-stack and backend systems**.
 
-* 🌱 **Currently learning**: **Go**, **Java**, **Spring Boot**, and **Distributed Systems**.
+* **Currently learning**: **Go**, **Java**, **Spring Boot**, and **Distributed Systems**.
 
 ---
 
-### 🛠️ Languages & Technologies
+### Languages & Technologies
 
 <table>
   <tr>
@@ -42,6 +42,7 @@
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
       <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=websocket&logoColor=white" alt="WebSockets" />
       <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io" />
@@ -88,26 +89,30 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 🌐 [Portfolio](https://yogeshrajawat.vercel.app)
+#### [Portfolio](https://yogeshrajawat.vercel.app)
 My personal developer portfolio website showcasing my background, skills, and projects.
 * **Core Tech**: Next.js, React, TypeScript, Tailwind CSS.
 
-#### 🔍 [Hirescope](https://github.com/Shryansh107/linkedin-job-scrapper)
-A dynamic LinkedIn job scraper backend that automatically retrieves, filters, and scores job postings based on custom configurations.
-* **Core Tech**: Python, SQLite, Supabase (PostgreSQL), HTML/CSS.
-* **Key Features**: Supports local SQLite and cloud Supabase database backends, session pool management using multiple logins, active config management, and real-time dashboard visualization.
+#### [Prism AI](https://prism-ai1.vercel.app)
+A premium content refraction engine that automates multi-platform content distribution by converting long-form media (YouTube videos, audio/video files, or raw transcripts) into a beautiful spectrum of platform-native text copy and visual assets.
+* **GitHub**: [yogeshsingh63/ai-atomizer](https://github.com/yogeshsingh63/ai-atomizer)
+* **Core Tech**: Next.js 16 (App Router, TypeScript, React 19, Tailwind CSS, Framer Motion), FastAPI (Python), PostgreSQL (Supabase) / SQLite, NVIDIA NIM, Gemini, HuggingFace (FLUX).
+* **Key Features**: Auto-generates SEO blog posts, Twitter/X threads, LinkedIn posts, viral short clip recommendations, and cover/thumbnail images using a high-reliability fallback matrix. Supports status-aware dashboard routing, SSE-based live processing tracking with polling fallback, and per-card interactive AI regeneration.
 
-#### 💻 [CodeSphere](https://github.com/yogeshsingh63/codesphere)
+#### [CodeSphere](https://codesphere1.vercel.app)
 An online collaborative code workspace and IDE that allows developers and teachers to spin up coding environments on demand.
+* **GitHub**: [yogeshsingh63/codesphere](https://github.com/yogeshsingh63/codesphere)
 * **Core Tech**: React, Node.js, Express, MongoDB, WebSockets, Docker (via `dockerode`).
 * **Key Features**: Direct API integration with local/cloud Docker to compile and run submissions inside isolated environments, live multiplayer code collaboration via custom WebSocket servers, test case evaluation, and quizzes.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshsingh63&theme=transparent" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yogeshsingh63&show_icons=true&theme=transparent" alt="Yogesh's GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=yogeshsingh63&theme=transparent" alt="GitHub Streak" />
 </p>
+
