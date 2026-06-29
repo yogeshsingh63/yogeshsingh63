@@ -17,7 +17,7 @@
 ---
 
 ### 💻 About Me
-**Software Developer interested in full-stack and backend systems**.
+**Software Developer interested in full-stack and backend development**.
 
 * 🌱 **Currently learning**: **Go**, **Java**, **Spring Boot**, and **Distributed Systems**.
 
@@ -91,7 +91,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🌐 [Portfolio](https://yogeshrajawat.vercel.app)
+#### 🌐 [Portfolio](https://yogeshrajawat.in/)
 My personal developer portfolio website showcasing my background, skills, and projects.
 * **Core Tech**: Next.js, React, TypeScript, Tailwind CSS.
 
